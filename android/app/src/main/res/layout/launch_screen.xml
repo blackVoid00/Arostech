@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:orientation="vertical" android:layout_width="match_parent"
+                android:layout_height="match_parent"
+>
+    <ImageView android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:src="@drawable/launch_screen"
+               android:scaleType="centerCrop" />
+    <!--    <ImageView android:background="@drawable/nlogo_arostech" -->
+    <!--        android:id="@+id/logo"-->
+    <!--        android:layout_width="255dp"-->
+    <!--        android:layout_height="288dp"-->
+    <!--        android:layout_centerInParent="true"-->
+    <!--        android:src="@drawable/"-->
+    <!--        app:tint="#000"
+                 android:layout_below="@+id/logo"/>-->
+    <!--    <TextView-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_centerHorizontal="true"-->
+    <!--            android:text="Welcome into our smart irrigation"-->
+    <!--            android:textStyle="italic"-->
+    <!--            android:textSize="25sp"-->
+    <!--            android:layout_marginTop="10dp"-->
+    <!--            android:textColor="#118516"/>-->
+    <!--    <ImageView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent"-->
+    <!--        android:scaleType="centerCrop"-->
+    <!--        android:src="@drawable/logo_arostech" />-->
+</RelativeLayout>

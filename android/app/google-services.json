@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273311424734",
+    "firebase_url": "https://arostech-default-rtdb.firebaseio.com",
+    "project_id": "arostech",
+    "storage_bucket": "arostech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273311424734:android:e0ad1a47af54278221624f",
+        "android_client_info": {
+          "package_name": "com.arostechv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273311424734-4jcfg6dcmat0tuhv4jinmagnpniej5lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arostechv1",
+            "certificate_hash": "21e149e5657635c8f1e75ee961fb5085b043dec3"
+          }
+        },
+        {
+          "client_id": "273311424734-b65ba6549bljamj9qjc22mev49rr8fi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlusXTLey1eBiiY1SGgZAa6OlK6qNeAHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273311424734-b65ba6549bljamj9qjc22mev49rr8fi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
